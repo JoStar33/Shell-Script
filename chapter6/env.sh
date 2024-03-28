@@ -1,0 +1,1 @@
+echo "${VSCODE_GIT_ASKPASS_MAIN}"
