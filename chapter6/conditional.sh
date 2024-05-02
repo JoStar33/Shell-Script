@@ -13,3 +13,10 @@ VALUE2=3
 if [ `expr $VALUE + $VALUE2` -ge 13 ] ; then
   echo "The Number is greater than or Equal 13"
 fi
+
+A="APPLE"
+B="BOY"
+
+if [ $A == $B ] ; then
+  echo "A is B"
+fi
